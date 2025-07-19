@@ -1,0 +1,15 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore environment variable files
+.env
+
+# Ignore system files
+__pycache__/
+*.pyc
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore sample resume if needed
+resume_samples/sample_resume.docx

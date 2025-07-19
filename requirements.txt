@@ -1,0 +1,9 @@
+streamlit==1.35.0
+langchain==0.2.1
+langchain-community==0.2.1
+openai
+pypdf==3.17.4
+docx2txt==0.8
+python-dotenv
+streamlit-option-menu==0.3.6
+Pillow==10.3.0

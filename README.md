@@ -1,70 +1,10 @@
-# BoTfOliO – Smart Resume Assistant 💼🤖
-
-An AI-powered resume assistant that analyzes uploaded resumes and provides:
-- 📌 A quick summary of alignment with job roles
-- ✅ Strengths
-- ❌ Missing skills or qualifications
-- 💡 Suggestions for improvement
-- 📝 A corrected version of the resume
-
----
-
-## 🚀 Features
-
-- Upload `.docx` resumes and get instant feedback
-- AI-generated suggestions using LLMs
-- Simple, interactive UI built with Streamlit
-- Clean CSS-styled layout
-
----
-
-## 🛠️ Technologies Used
-
-- Python 🐍
-- Streamlit 📺
-- LangChain 🔗
-- OpenRouter API (LLM)
-- docx2txt 📄
-
----
-
-## 📂 Folder Structure
 
 # BoTfOliO – Smart Resume Assistant 💼🤖
 
-An AI-powered resume assistant that analyzes uploaded resumes and provides:
-- 📌 A quick summary of alignment with job roles
-- ✅ Strengths
-- ❌ Missing skills or qualifications
-- 💡 Suggestions for improvement
-- 📝 A corrected version of the resume
+BoTfOliO is an AI-powered smart resume assistant built with Streamlit, LangChain & OpenRouter. It extracts key info from .docx resumes, summarizes user profiles, and offers intelligent feedback along with a corrected, improved version—ideal for students & professionals.
 
----
-
-## 🚀 Features
-
-- Upload `.docx` resumes and get instant feedback
-- AI-generated suggestions using LLMs
-- Simple, interactive UI built with Streamlit
-- Clean CSS-styled layout
-
----
-
-## 🛠️ Technologies Used
-
-- Python 🐍
-- Streamlit 📺
-- LangChain 🔗
-- OpenRouter API (LLM)
-- docx2txt 📄
-
----
-
-## 📂 Folder Structure
-
-# BoTfOliO – Smart Resume Assistant 💼🤖
-
-An AI-powered resume assistant that analyzes uploaded resumes and provides:
+ ## BoTfOliO - Evaluates the resume and provide:
+ 
 - 📌 A quick summary of alignment with job roles
 - ✅ Strengths
 - ❌ Missing skills or qualifications
@@ -104,9 +44,7 @@ AI-Resume-Assistant/
 │
 ├── resume_samples/
 │ └── sample_resume.docx
-│
-├── utils/
-│ └── helper.py
+│ └── sample_output.png 
 │
 └── venv/
 

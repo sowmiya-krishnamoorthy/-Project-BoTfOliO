@@ -63,11 +63,11 @@ python -m venv venv
 
 3. **Activate the virtual environment**:
 
-**On Windows**:
-venv\Scripts\activate
+   **On Windows**:
+   venv\Scripts\activate
 
-**On Mac/Linux**:
-source venv/bin/activate
+   **On Mac/Linux**:
+   source venv/bin/activate
 
 4. **Install dependencies**:
 pip install -r requirements.txt
@@ -76,5 +76,9 @@ pip install -r requirements.txt
 os.environ["OPENROUTER_API_KEY"] = "your-api-key"
 
 📬 Contact
-Feel free to connect on LinkedIn at https://www.linkedin.com/in/sowmiya-k-378b14328 or email at sowmiya140605@gmail.com
+Feel free to connect on  
+LinkedIn at https://www.linkedin.com/in/sowmiya-k-378b14328 
+ 
+or
+email at sowmiya140605@gmail.com
 
